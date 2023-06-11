@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fauzan Zaman</h1>
 <h3 align="center">A passionate fullstack developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Laravel**
 
 - 📫 How to reach me **fauzan12356@gmail.com**
 
