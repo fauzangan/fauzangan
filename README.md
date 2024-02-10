@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fauzan Zaman</h1>
 <h3 align="center">A passionate fullstack developer from Indonesia</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fauzangan&label=Profile%20views&color=0e75b6&style=flat" alt="fauzangan" /> </p>
+
 - 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me **fauzan12356@gmail.com**
