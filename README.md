@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fauzangan&label=Profile%20views&color=0e75b6&style=flat" alt="fauzangan" /> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Java Springboot**
 
 - 📫 How to reach me **fauzan12356@gmail.com**
 
