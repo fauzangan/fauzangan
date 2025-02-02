@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fauzangan" alt="fauzangan" /></a> </p>
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Go Language**
 
-- 👯 I’m looking to collaborate on any project related to **Backend**
+- 👯 Open to collaborating on **Backend-related projects**  
 
 - 👨‍💻 Some of my projects are available at [https://fauzan-zaman.vercel.app/](https://fauzan-zaman.vercel.app/)
 
-- 💬 Ask me about **Java Springboot, PHP Laravel, Docker**
+- 💬 Ask me about **Java (Spring Boot), PHP (Laravel), Docker**  
 
 - 📫 How to reach me: Email (**fauzanzaman000@gmail.com**) | Linkedin (**https://linkedin.com/in/fauzan-zaman**)
 
-- 🧐 I’m looking for opportunity to enhance my knowledge in **Frontend**
+- 🧐 Exploring opportunities to enhance my **Frontend skills** 
 
-- ⚡ Fun fact **I always insomnia**
+- ⚡ **Fun fact:** I struggle with insomnia 😅  
 
 - 🌐 Web3 Enthusiast
 
