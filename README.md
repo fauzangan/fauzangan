@@ -17,7 +17,7 @@
 
 - 🧐 Exploring opportunities to enhance my **Frontend skills** 
 
-- ⚡ **Fun fact:** I struggle with insomnia 😅  
+- ⚡ **Fun fact:** I struggle with insomnia  
 
 - 🌐 Web3 Enthusiast
 
