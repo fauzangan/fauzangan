@@ -11,7 +11,7 @@
 
 - 👨‍💻 Some of my projects are available at [https://fauzan-zaman.vercel.app/](https://fauzan-zaman.vercel.app/)
 
-- 💬 Ask me about **Java Springboot, PHP Laravel, Docker, React.js**
+- 💬 Ask me about **Java Springboot, PHP Laravel, Docker**
 
 - 📫 How to reach me: Email (**fauzanzaman000@gmail.com**) | Linkedin (**https://linkedin.com/in/fauzan-zaman**)
 
