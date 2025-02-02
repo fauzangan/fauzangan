@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 👯 I’m looking to collaborate on **Backend Project**
+- 👯 I’m looking to collaborate on any project related to **Backend**
 
 - 👨‍💻 Some of my projects are available at [https://fauzan-zaman.vercel.app/](https://fauzan-zaman.vercel.app/)
 
