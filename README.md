@@ -15,6 +15,8 @@
 
 - 📫 How to reach me: Email (**fauzanzaman000@gmail.com**) | Linkedin (**https://linkedin.com/in/fauzan-zaman**)
 
+- 🧐 I’m looking for opportunity to enhance my knowledge in **Frontend**
+
 - ⚡ Fun fact **I always insomnia**
 
 - 🌐 Web3 Enthusiast
