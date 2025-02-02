@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Backend Project**
 
-- 👨‍💻 All of my projects are available at [https://fauzan-zaman.vercel.app/](https://fauzan-zaman.vercel.app/)
+- 👨‍💻 Some of my projects are available at [https://fauzan-zaman.vercel.app/](https://fauzan-zaman.vercel.app/)
 
 - 💬 Ask me about **Java Springboot, PHP Laravel, React.js**
 
