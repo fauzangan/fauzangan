@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&width=435&height=40&lines=I'm+Fauzan+Zaman;I'm+just+a+chill+guy" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&width=435&height=40&lines=Hi%2C+I'm+Fauzan+Zaman;Hi%2C+I'm+just+a+chill+guy" alt="Typing SVG" /></a></h1>
 <h3 align="center">A passionate software engineer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fauzangan&label=Profile%20views&color=0e75b6&style=flat" alt="fauzangan" /> </p>
