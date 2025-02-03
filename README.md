@@ -41,8 +41,8 @@
 <h1></h1>
 <p align="center">
 <!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fauzangan&" alt="fauzangan" /> -->
-<!--   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fauzangan&theme=default" alt="fauzangan" /> -->
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fauzangan&theme=default" alt="fauzangan" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fauzangan&theme=default" alt="fauzangan" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fauzangan&theme=default" alt="fauzangan" />
+<!--   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fauzangan&theme=default" alt="fauzangan" /> -->
 </p>
 
